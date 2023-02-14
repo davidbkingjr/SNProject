@@ -6,7 +6,8 @@
 <br> 
   
 <img src="https://i.imgur.com/bmVEuI2.png"> 
- // Verification of user's age as 21 or above before allowing editing of reference field
+ <br>
+  // Verification of user's age as 21 or above before allowing editing of reference field
  <br> 
 <br> 
   
