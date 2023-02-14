@@ -2,6 +2,7 @@
 <p align="center">
 <img src="https://i.imgur.com/NBpV6yD.png"> 
 // Custom Table for Tito's Restaurants
+<br> 
   
 <img src="https://i.imgur.com/bmVEuI2.png"> 
 // Verification of user's age as 21 or above before allowing editing of reference field
