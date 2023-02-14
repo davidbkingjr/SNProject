@@ -1,4 +1,4 @@
-# SNProject
+# ServiceNow Custom Application Project - Tito's Restaurant
 <p align="center">
 <img src="https://i.imgur.com/NBpV6yD.png"> 
 // Custom Table for Tito's Restaurants
@@ -21,7 +21,7 @@
 <br>  
 <img src="https://i.imgur.com/3F6RYV7.png"> 
 // Flow designer to send a confirmation email to the user with their name as well as drink of choice.
- <br> 
+<br> 
 <br>  
 <img src="https://i.imgur.com/hQKXFdz.png"> 
 // Form design of the custom table
@@ -29,4 +29,8 @@
 <br>  
 <img src="https://i.imgur.com/OfhdU2q.png"> 
 // Custom widget & service portal for the signup form
+ <br> 
+<br>  
+<img src="https://i.imgur.com/IquZGHN.png"> 
+// Use of custom groups & roles with specialized ACL permissions for the managerial group to be able to create, write, update, and delete the custom table/application
 </p>
