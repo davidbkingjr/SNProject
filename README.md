@@ -6,9 +6,9 @@
 <br> 
   
 <img src="https://i.imgur.com/bmVEuI2.png"> 
-<br> 
-<br> 
  // Verification of user's age as 21 or above before allowing editing of reference field
+ <br> 
+<br> 
   
 <img src="https://i.imgur.com/Ty7N2oT.png"> 
 // UI Policy to allow reference field to be edited and mandatory if the checkbox is enabled
